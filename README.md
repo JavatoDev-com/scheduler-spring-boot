@@ -1,4 +1,4 @@
-# How to Use Amazon SQS With Spring Boot
+# Task Scheduling on Spring Boot Using @Scheduler
 
 <a href="https://www.javatodev.com/how-to-use-scheduler-annotation-in-spring-boot/" target="blank">
     <img align="center" src="https://www.javatodev.com/content/images/size/w2000/2022/12/Task-Scheduling-on-Spring-Boot--1-.png" alt="Task Scheduling on Spring Boot Using @Scheduler"/></a>
